@@ -1,0 +1,28 @@
+name: webis
+favicon: null
+layout_spectrum: 0.8938148720189929
+typography_spectrum: 0.5701343945693225
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6788806638214737
+  lightness: 0.3413266248535365
+  saturation: 0.25584158417768776
+  rhythmicContrast: 0.6882094016764313
+purpose: []
